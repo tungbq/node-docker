@@ -10,4 +10,7 @@
 `docker exec -it test-docker bash`
 
 # How to use docker compose
-`docker compose up`
+## > Start
+`docker compose up` or `docker compose up -d`
+## > Stop
+`docker compose down`
