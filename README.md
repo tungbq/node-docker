@@ -11,6 +11,6 @@
 
 # How to use docker compose
 ## > Start
-`docker compose up` or `docker compose up -d`
+`docker compose up` or `docker compose up -d` if we wanna run in detached mode
 ## > Stop
 `docker compose down`
